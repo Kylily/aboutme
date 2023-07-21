@@ -10,26 +10,29 @@
 
 - 🔭 I’m currently working as a **[Technical Project Leadership Intern](https://www.pfizer.com/en/about/careers/pfizer-summer-growth-experience)** at Pfizer Inc.
 
-- 🌱 Currently, I'm learning how to **Building MRP Systems & Data Pipeline Engineering (as well as Github!)**
+- 🌱 Currently, I'm learning **Building MRP Systems & Data Pipeline Engineering (as well as Github!)**
 
-- 👯 I’m currently collaborately developing with **[Codeology Club](codeology.club)**
+- 👯 I’m currently collaborately developing with **[Codeology Club](https//:codeology.club)** and previously was their marketing officer
 
 - 🍓 Previously in college I've worked at
     - **[Studio 33 Properties LTD.](https://issuu.com/ignitemediastudio/docs/studio33_brochure)** as a part-time UI/UX Developer
     - **[Niyogi Lab](https://niyogilab.berkeley.edu/)** as an undergraduate researcher
-
-- 🥑 Previous Clubs I was involved in:
-    - AFX Tech
-    - Ecode
-    - Global Research Consulting
-    - IDOT 
-
+    - **[IDOT](https://www.notion.so/idotclub/Innovative-Designers-of-Tomorrow-6101a9cb69f4450f87b9be7940812850)** as a writer and content/marketing director
+ 
 - 👨‍💻 All of my projects are available at **[WIP](https://)**
 
+- 🥑 Previous Clubs I was involved in:
+    - **[MIT X IEEE UV Village Society](https://universalvillage.org/)** as a research assistant on cross-linked protein analytics
+    - **[AFX Tech](https://afx.dance)** as both a dancer and developer
+    - **[Ecode](https://ecode.berkeley.edu/)** as a designer and developer
+    - **[Global Research Consulting](https://www.grcglobalgroup.com/)** as a consultant
+    - Danceworks as a dancer
+    - Edubridge as a STEM tutor
+      
 - 📫 How to reach me **kxyr@berkeley.edu**
 
 - ⚡ Hobby fact **I'm picking up scuba diving this fall :D**
-
+  
 ## 🚀 Languages and Tools:
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
