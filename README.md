@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently **starting full time recruitment!** Open for work~
 
-- 🌱 I’m currently **building my own small etsy jewelry store** **[Forager's Studio](https://foragersstudios.etsy.com)**, featuring handcrafted jewelry inspired by earth's bountiful flora 
+- 🌱 Meanwhile I’m **building my own small etsy jewelry store** **[Forager's Studio](https://foragersstudios.etsy.com)**, featuring handcrafted jewelry inspired by earth's bountiful flora 
 
 - 👯 I'm also learning **Building MRP Systems & Data Pipeline Engineering (as well as Github!)** <3
 
