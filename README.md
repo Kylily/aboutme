@@ -12,9 +12,10 @@
 
 - 🌱 Currently, I'm learning **Building MRP Systems & Data Pipeline Engineering (as well as Github!)**
 
-- 👯 I’m currently collaborately developing with **[Codeology Club](https//:codeology.club)** and previously was their marketing officer
+- 👯 I’m currently working on my own small **[etsy jewelry store](https://foragersstudios.etsy.com)**, handcrafting jewelry inspired by earth's bountiful flora <3
 
 - 🍓 Previously in college I've worked at
+    - **[Codeology Club](https//:codeology.club)** as a developer and previously as the marketing officer
     - **[Studio 33 Properties LTD.](https://issuu.com/ignitemediastudio/docs/studio33_brochure)** as a part-time UI/UX Developer
     - **[Niyogi Lab](https://niyogilab.berkeley.edu/)** as an undergraduate researcher
     - **[IDOT](https://www.notion.so/idotclub/Innovative-Designers-of-Tomorrow-6101a9cb69f4450f87b9be7940812850)** as a writer and content/marketing director
