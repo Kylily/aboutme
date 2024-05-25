@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently starting full time recruitment! Open for work~
 
-- 🌱 I’m currently building my own small etsy jewelry store **[Forager's Studio](https://foragersstudios.etsy.com)**, featuring handcrafted jewelry inspired by earth's bountiful flora <3
+- 🌱 I’m currently building my own small etsy jewelry store **[Forager's Studio](https://foragersstudios.etsy.com)**, featuring handcrafted jewelry inspired by earth's bountiful flora 
 
-- 👯 I'm also learning **Building MRP Systems & Data Pipeline Engineering (as well as Github!)**
+- 👯 I'm also learning **Building MRP Systems & Data Pipeline Engineering (as well as Github!)** <3
 
 - 🍓 Previously in college I've worked at
     - **[Gump Station](https://www.moorea.berkeley.edu/)** as an undergrad researcher / biologist conducting research and contributing to conservational and sustainability focused efforts in French Polynesia
