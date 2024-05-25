@@ -8,14 +8,15 @@
 
 ## ₍ᐢ.   ̫ .ᐢ₎ About Me
 
-- 🔭 I’m currently working as a **[Technical Project Leadership Intern](https://www.pfizer.com/en/about/careers/pfizer-summer-growth-experience)** at Pfizer Inc.
+- 🔭 I’m currently starting full time recruitment! Open for work~
 
-- 🌱 Currently, I'm learning **Building MRP Systems & Data Pipeline Engineering (as well as Github!)**
+- 🌱 I’m currently building my own small etsy jewelry store **[Forager's Studio](https://foragersstudios.etsy.com)**, featuring handcrafted jewelry inspired by earth's bountiful flora <3
 
-- 👯 I’m currently working on my own small etsy jewelry store **[Forager's Studio](https://foragersstudios.etsy.com)**, handcrafting jewelry inspired by earth's bountiful flora <3
+- 👯 I'm also learning **Building MRP Systems & Data Pipeline Engineering (as well as Github!)**
 
 - 🍓 Previously in college I've worked at
-    - **[Codeology Club](https//:codeology.club)** as a developer and previously as the marketing officer
+    - **[Gump Station](https://www.moorea.berkeley.edu/)** as an undergrad researcher / biologist conducting research and contributing to conservational and sustainability focused efforts in French Polynesia
+    - **[Pfizer Inc.](https://www.pfizer.com/en/about/careers/pfizer-summer-growth-experience)** as a Technical Project Leadership Intern and part-time Data Scientist
     - **[Studio 33 Properties LTD.](https://issuu.com/ignitemediastudio/docs/studio33_brochure)** as a part-time UI/UX Developer
     - **[Niyogi Lab](https://niyogilab.berkeley.edu/)** as an undergraduate researcher
     - **[IDOT](https://www.notion.so/idotclub/Innovative-Designers-of-Tomorrow-6101a9cb69f4450f87b9be7940812850)** as a writer and content/marketing director
@@ -23,6 +24,7 @@
 - 👨‍💻 All of my projects are available at **[WIP](https://)**
 
 - 🥑 Previous Clubs I was involved in:
+    - **[Codeology Club](https//:codeology.club)** as a developer and previously as the marketing officer
     - **[MIT X IEEE UV Village Society](https://universalvillage.org/)** as a research assistant on cross-linked protein analytics
     - **[AFX Tech](https://afx.dance)** as both a dancer and developer
     - **[Ecode](https://ecode.berkeley.edu/)** as a designer and developer
@@ -32,7 +34,9 @@
       
 - 📫 How to reach me **kxyr@berkeley.edu**
 
-- ⚡ Hobby fact **I'm picking up scuba diving this fall :D**
+- ⚡ Hobby facts
+    - **I got my scuba diving license spring 24 :D**
+    - **I'm starting to pick up bachata + salsa**
   
 ## 🚀 Languages and Tools:
 <p align="left"> 
