@@ -12,7 +12,7 @@
 
 - 🌱 Currently, I'm learning **Building MRP Systems & Data Pipeline Engineering (as well as Github!)**
 
-- 👯 I’m currently working on my own small **[etsy jewelry store](https://foragersstudios.etsy.com)**, handcrafting jewelry inspired by earth's bountiful flora <3
+- 👯 I’m currently working on my own small etsy jewelry store **[Forager's Studio](https://foragersstudios.etsy.com)**, handcrafting jewelry inspired by earth's bountiful flora <3
 
 - 🍓 Previously in college I've worked at
     - **[Codeology Club](https//:codeology.club)** as a developer and previously as the marketing officer
