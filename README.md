@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Kylie!</h1>
-<h3 align="center">I'm an undergraduate studying microbial biology and data science at UC Berkeley <3</h3>
+<h3 align="center">I'm a recent grad who studied microbial biology and data science at UC Berkeley <3</h3>
 
 
 ## ₍ᐢ.   ̫ .ᐢ₎ About Me
