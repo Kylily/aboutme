@@ -8,7 +8,7 @@
 
 ## ₍ᐢ.   ̫ .ᐢ₎ About Me
 
-- 🔭 I’m currently **starting full time recruitment!** Open for work~
+- 🔭 I’m currently **prepping to start full time work :D**
 
 - 🌱 Meanwhile I’m **building my own small etsy jewelry store** **[Forager's Studio](https://foragersstudios.etsy.com)**,
 featuring handcrafted jewelry inspired by earth's bountiful flora 
