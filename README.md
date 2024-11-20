@@ -27,6 +27,7 @@ featuring handcrafted jewelry inspired by earth's bountiful flora
 - 🥑 Previous Clubs I was involved in:
     - **[Codeology Club](https//:codeology.club)** as a developer and previously as the marketing officer
     - **[MIT X IEEE UV Village Society](https://universalvillage.org/)** as a research assistant on cross-linked protein analytics
+    - **[YHWH Apparel](https://www.instagram.com/yhwhapparel/)** as a product designer
     - **[AFX Tech](https://afx.dance)** as both a dancer and developer
     - **[Ecode](https://ecode.berkeley.edu/)** as a designer and developer
     - **[Global Research Consulting](https://www.grcglobalgroup.com/)** as a consultant
